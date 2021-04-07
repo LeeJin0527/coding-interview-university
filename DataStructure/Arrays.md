@@ -39,4 +39,36 @@ int Arr[i][j] (행우선)
 | End |O(1)| O(1) |
 | Middle |O(n) | O(n) |
 
-*** 마크다운 너무 귀찮당
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883457-20ed3700-97f9-11eb-9c22-0cec69f694a5.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883456-20ed3700-97f9-11eb-8ce5-cca9a224a1be.jpg"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883454-2054a080-97f9-11eb-9351-4bd29524f6fa.jpg"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883451-1fbc0a00-97f9-11eb-8a29-7bc537d16e13.jpg"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883447-1f237380-97f9-11eb-857c-d94766e35163.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883444-1f237380-97f9-11eb-8f38-ae2f7c4cca18.jpg"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883442-1e8add00-97f9-11eb-97de-b4fbe772b880.jpg)"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883439-1df24680-97f9-11eb-91f0-b673aadbac14.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883438-1d59b000-97f9-11eb-9a45-a86d6a493bc7.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883433-1d59b000-97f9-11eb-87a1-f55379175351.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883426-1cc11980-97f9-11eb-9b12-b5a17dfc0342.jpg"  width="800" height="800">
+
+
+<img src="https://user-images.githubusercontent.com/64263694/113883421-1b8fec80-97f9-11eb-98b2-efce5dff6494.jpg"  width="800" height="800">
+
+<img src="https://user-images.githubusercontent.com/64263694/113883415-1af75600-97f9-11eb-807e-8b16a6113498.jpg"  width="800" height="800">
