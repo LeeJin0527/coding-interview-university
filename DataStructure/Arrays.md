@@ -15,7 +15,7 @@
 Arrays are constant time to access 
 <-> random access 
 
-# 1. 배열의 address 구하는 방법 
+# 1.1. 배열의 address 구하는 방법 
 
 - 기준 주소+ ( i- first_index(통상적으로 1임) ) * elem_size
  
@@ -26,7 +26,7 @@ Arrays are constant time to access
 int Arr[i][j] (행우선)
 = array_addr(시작 주소) + elem_size *(i-1) +(j-1) 
 
-3.int Arr[i][j] (열우선)
+ 3.int Arr[i][j] (열우선)
 = array_addr(시작 주소) + elem_size *(j-1) +(i-1) 
 
 
