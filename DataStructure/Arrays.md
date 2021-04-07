@@ -26,7 +26,7 @@ Arrays are constant time to access
 int Arr[i][j] (행우선)
 = array_addr(시작 주소) + elem_size *(i-1) +(j-1) 
 
-int Arr[i][j] (열우선)
+3.int Arr[i][j] (열우선)
 = array_addr(시작 주소) + elem_size *(j-1) +(i-1) 
 
 
