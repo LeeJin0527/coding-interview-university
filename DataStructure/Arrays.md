@@ -55,7 +55,7 @@ int Arr[i][j] (행우선)
 
 <img src="https://user-images.githubusercontent.com/64263694/113883444-1f237380-97f9-11eb-8f38-ae2f7c4cca18.jpg"  width="800" height="800">
 
-<img src="https://user-images.githubusercontent.com/64263694/113883442-1e8add00-97f9-11eb-97de-b4fbe772b880.jpg)"  width="800" height="800">
+<img src="https://user-images.githubusercontent.com/64263694/113886649-d0c3a400-97fb-11eb-8004-152fa98a5365.jpg"  width="800" height="800">
 
 <img src="https://user-images.githubusercontent.com/64263694/113883439-1df24680-97f9-11eb-91f0-b673aadbac14.jpg"  width="800" height="800">
 
@@ -72,4 +72,3 @@ int Arr[i][j] (행우선)
 <img src="https://user-images.githubusercontent.com/64263694/113883421-1b8fec80-97f9-11eb-98b2-efce5dff6494.jpg"  width="800" height="800">
 
 <img src="https://user-images.githubusercontent.com/64263694/113883415-1af75600-97f9-11eb-807e-8b16a6113498.jpg"  width="800" height="800">
-https://user-images.githubusercontent.com/64263694/113886649-d0c3a400-97fb-11eb-8004-152fa98a5365.jpg
