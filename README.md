@@ -36,7 +36,10 @@
     - [ v] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
-04-07-2021
+
+
+
+07-04-2021
 
 - ### Stack
     - [v] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
