@@ -72,9 +72,10 @@
         - No need to implement
 
 - ### Stack
+    - [v] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
     - [v] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
     - [ ] Will not implement. Implementing with array is trivial
-    - [v] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/stack.md (정리본)
+    
 
 - ### Queue
     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
