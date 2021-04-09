@@ -37,6 +37,13 @@
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 04-07-2021
+
+- ### Stack
+    - [v] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
+    - [v] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [ ] Will not implement. Implementing with array is trivial
+
+04-09-2021
 - ### Linked Lists
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
@@ -71,10 +78,7 @@
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
-- ### Stack
-    - [v] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
-    - [v] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-    - [ ] Will not implement. Implementing with array is trivial
+
     
 
 - ### Queue
