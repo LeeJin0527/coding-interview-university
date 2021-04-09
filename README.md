@@ -70,6 +70,7 @@
         - [ ] front() - get value of front item
         - [ ] back() - get value of end item
         - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [ ] 
         - [ ] erase(index) - removes node at given index
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [ ] reverse() - reverses the list
