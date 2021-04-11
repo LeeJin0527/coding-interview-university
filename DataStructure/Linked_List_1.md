@@ -13,7 +13,7 @@
 - 다항식 프로그램
 
 
-<img src="https://user-images.githubusercontent.com/64263694/114195402-6477aa80-998b-11eb-90fe-5502104fe7d8.jpg" width ="800" height="800">
+<img src="https://user-images.githubusercontent.com/64263694/114297462-be8f8180-9aeb-11eb-95f8-50eded04dc0e.jpg" width ="800" height="800">
 
 
 <img src="https://user-images.githubusercontent.com/64263694/114296779-0c09ef80-9ae8-11eb-8ef1-3627a41ae4b7.jpg" width="800" height="800">
