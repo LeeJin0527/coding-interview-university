@@ -64,21 +64,21 @@
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] Implement (I did with tail pointer & without):
-        - [ ] size() - returns number of data elements in list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove front item and return its value
-        - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get value of front item
-        - [ ] back() - get value of end item
-        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [ v] size() - returns number of data elements in list
+        - [ v] empty() - bool returns true if empty
+        - [ v] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [v ] push_front(value) - adds an item to the front of the list
+        - [v ] pop_front() - remove front item and return its value
+        - [v ] push_back(value) - adds an item at the end
+        - [v ] pop_back() - removes end item and returns its value
+        - [v ] front() - get value of front item
+        - [v ] back() - get value of end item
+        - [v ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [ ] 
-        - [ ] erase(index) - removes node at given index
-        - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
-        - [ ] remove_value(value) - removes the first item in the list with this value
+        - [v ] erase(index) - removes node at given index
+        - [ v] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [ v] reverse() - reverses the list
+        - [v ] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
