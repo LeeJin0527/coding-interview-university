@@ -48,6 +48,7 @@
 
 09-04-2021
 - ### Linked Lists
+- https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Linked_List_1.md  (정리본1)
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
