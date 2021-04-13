@@ -6,11 +6,11 @@
 - ### Arrays
     - Implement an automatically resizing vector.
     - [x] Description:
-    	- [x] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Arrays.md (정리본)
-        - [x][Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-        - [x][UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [x][Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [x][Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+    	 - [x]  https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Arrays.md (정리본)
+         - [x]   [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+        - [x]  [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
+        - [x]  [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+        - [x]  [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [x] Implement a vector (mutable array with automatic resizing):
         - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] New raw data array with allocated memory
