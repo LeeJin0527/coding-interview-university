@@ -26,7 +26,7 @@
         - [x] pop() - remove from end, return value
         - [x] delete(index) - delete item at index, shifting all trailing elements left
         - [x] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [x]find(item) - looks for value and returns first index with that value, -1 if not found
+        - [x] find(item) - looks for value and returns first index with that value, -1 if not found
        - [x] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
