@@ -42,13 +42,13 @@
 07-04-2021
 
 - ### Stack
-   - [x] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
-    - [x] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [x]  https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Stack.md (정리본)
+     - [x]  [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
     - [ ] 코드 구현 하기 
 
 09-04-2021
 - ### Linked Lists
-- [x] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Linked_List_1.md  (정리본1)
+ - [x]  https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Linked_List_1.md  (정리본1)
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
@@ -64,21 +64,21 @@
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] Implement (I did with tail pointer & without):
-        - [ v] size() - returns number of data elements in list
-        - [ v] empty() - bool returns true if empty
-        - [ v] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [v ] push_front(value) - adds an item to the front of the list
-        - [v ] pop_front() - remove front item and return its value
-        - [v ] push_back(value) - adds an item at the end
-        - [v ] pop_back() - removes end item and returns its value
-        - [v ] front() - get value of front item
-        - [v ] back() - get value of end item
-        - [v ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [x] size() - returns number of data elements in list
+       - [x]  empty() - bool returns true if empty
+        - [x]  value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x]  push_front(value) - adds an item to the front of the list
+       - [x]  pop_front() - remove front item and return its value
+       - [x]  push_back(value) - adds an item at the end
+       - [x] pop_back() - removes end item and returns its value
+       - [x]  front() - get value of front item
+        - [x] back() - get value of end item
+         - [x] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [ ] 
-        - [v ] erase(index) - removes node at given index
-        - [ v] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ v] reverse() - reverses the list
-        - [v ] remove_value(value) - removes the first item in the list with this value
+       - [x]  erase(index) - removes node at given index
+        - [x]  value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [x]  [ v] reverse() - reverses the list
+        - [x] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
