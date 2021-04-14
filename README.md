@@ -49,6 +49,7 @@
 09-04-2021
 - ### Linked Lists
  - [x]  https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Linked_List_1.md  (정리본1)
+ - [x]      https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Linked_List_2.md (정리본2)
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
@@ -63,7 +64,7 @@
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [ ] Implement (I did with tail pointer & without):
+    - [x ] Implement (I did with tail pointer & without):
         - [x] size() - returns number of data elements in list
        - [x]  empty() - bool returns true if empty
         - [x]  value_at(index) - returns the value of the nth item (starting at 0 for first)
