@@ -64,7 +64,7 @@
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [x ] Implement (I did with tail pointer & without):
+     - [x] Implement (I did with tail pointer & without):
         - [x] size() - returns number of data elements in list
        - [x]  empty() - bool returns true if empty
         - [x]  value_at(index) - returns the value of the nth item (starting at 0 for first)
@@ -80,7 +80,7 @@
         - [x]  value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x]  [ v] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ x] Doubly-linked List
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
