@@ -1,5 +1,5 @@
 # Coding Interview University
-지니씨의 고군분투기 할 수 있다!!!!!!!!!!!1
+# Data Structure
 
 ## Data Structures
 
