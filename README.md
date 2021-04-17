@@ -1,5 +1,5 @@
 # Coding Interview University
-# Data Structure
+
 
 ## Data Structures
 
