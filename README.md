@@ -172,7 +172,7 @@
 
 - ### Trees - Notes & Background
  - [x] https://github.com/LeeJin0527/coding-interview-university/blob/main/DataStructure/Trees.md (정리본)
-    - [ ] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
+    - [x] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
     - basic tree construction
     - traversal
     - manipulation algorithms
