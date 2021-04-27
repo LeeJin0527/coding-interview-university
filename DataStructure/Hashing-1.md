@@ -1,4 +1,4 @@
-## Arrays
+## Hashing
 ### 목차 
 
 - Dictionaries & Python
